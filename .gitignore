@@ -1,0 +1,14 @@
+# Solución de referencia: local, no se publica
+solucion/
+
+.venv/
+__pycache__/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# LaTeX
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc

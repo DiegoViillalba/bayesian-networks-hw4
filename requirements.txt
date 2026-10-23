@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+jupyter
+# solo para verificar (la tarea no permite usarla para resolver)
+pgmpy
+# opcional, para las prácticas con PyTorch
+# torch
